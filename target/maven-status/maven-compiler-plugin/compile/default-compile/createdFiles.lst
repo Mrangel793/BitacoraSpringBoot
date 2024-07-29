@@ -1,0 +1,10 @@
+com\mtrm\BitacoraSena\BitacoraSenaApplication.class
+com\mtrm\BitacoraSena\repositories\RegionalRepository.class
+com\mtrm\BitacoraSena\controllers\AprendizController.class
+com\mtrm\BitacoraSena\models\Regional.class
+com\mtrm\BitacoraSena\repositories\AprendizRepository.class
+com\mtrm\BitacoraSena\models\Aprendiz.class
+com\mtrm\BitacoraSena\models\Usuario.class
+com\mtrm\BitacoraSena\repositories\UserRepository.class
+com\mtrm\BitacoraSena\repositories\SedeRepository.class
+com\mtrm\BitacoraSena\models\Sede.class
